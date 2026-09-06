@@ -6,10 +6,10 @@ Atualizado em 2026-09-06T16:51:37.809848+00:00. Cobertura parcial, sem inventar 
 Trabalhar por produto físico e cruzar as lojas aplicáveis. P0 erros graves; P1 TikTok; P2 vencedores; P3 ajustes rápidos; P4 ofertas distintas; P5 cosméticos. Até dez candidatos comerciais por modelo, sem duplicatas para atingir uma quota.
 
 ## Base consolidada
-- 166 anúncios identificados na base disponível; não é o total ativo das 11 contas.
+- 186 anúncios identificados na base disponível; não é o total ativo das 11 contas.
 - 0 linhas de grupo sem anúncio individual reconciliado.
-- 6 grupos de SKU repetido: candidatos de associação, nunca equivalência automática.
-- 11 contas no escopo e 121 células de família candidata × conta. Ausência de observação não significa ausência de produto.
+- 7 grupos de SKU repetido: candidatos de associação, nunca equivalência automática.
+- 11 contas no escopo e 132 células de família candidata × conta. Ausência de observação não significa ausência de produto.
 - 11 imagens adicionais e 6 vídeos locais catalogados por hash. Outros seis arquivos já usados no ML008 conservados no pacote local.
 - 25 operações históricas e atuais consultadas; estado por componente no diário. Isso não equivale a anúncios completos revisados.
 - Zero anúncios novos publicados nesta rodada; uma correção de descrição persistida nesta rodada.
@@ -33,3 +33,10 @@ Seis lojas ML/Shopee identificadas por interface em leituras anteriores; Arion t
 4. Completar catálogo, atributos, mídias, personalização e garantia; preservar vencedores.
 
 Fontes: diário, inventários e pacotes locais de 05–06/09/2026; medidas e autorização expressas do responsável. O repositório é público: não contém credenciais, sessões, dados de clientes ou métricas financeiras internas. Arquivos de status não comprovam por si só efeito externo.
+
+## Ampliação de catálogo e limite de execução
+Lista de 32 ativos da Zephyra Shopee incorporada a partir da UI UpSeller, incluindo pulseiras infantis, profissões, Spotify e lisos B2B. Shop 757377509 observado nos links de produto, sem abrir páginas públicas. Campos do integrador podem estar desatualizados até sincronização individual. [Matriz legível](MATRIZ-RESUMO.md).
+
+Última falha: Chrome perdeu conexão de controle (debugger unattached). Pulseira permanece sem confirmação de salvamento, com reconciliação obrigatória. Nenhuma nova tentativa até recuperar controle observável. Não confundir isso com pedido de senha ou CAPTCHA identificado.
+
+Repositório publicado e master lido de volta com conteúdo idêntico no commit 3006585eba67aee03dbf2cf12fc2fc393c601228; esta ampliação será registrada no próximo commit.

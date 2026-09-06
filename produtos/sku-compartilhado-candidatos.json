@@ -52,5 +52,14 @@
       "ARION-ML|MLB5360101966"
     ],
     "decision": "CANDIDATE_ONLY_DO_NOT_MERGE"
+  },
+  {
+    "sku": "p1",
+    "listings": [
+      "ZEPHYRA-SHOPEE|18298628849",
+      "ZEPHYRA-SHOPEE|23995957452",
+      "ZEPHYRA-SHOPEE|23191474109"
+    ],
+    "decision": "CANDIDATE_ONLY_DO_NOT_MERGE"
   }
 ]

@@ -1610,7 +1610,8 @@
         "Foto Olhar + Escrita Verso",
         "Foto Olhar Frente + Foto verso"
       ]
-    }
+    },
+    "shop_id_from_visible_link": "757377509"
   },
   {
     "account": "ZEPHYRA-SHOPEE",
@@ -1620,14 +1621,21 @@
     "family_candidate": "escapulario",
     "physical_identity": "VARIANTS_REVIEWED_TECHNICAL_GAPS_REMAIN",
     "source": "Revisão Seller Center 2026-09-06",
-    "review": "TEXT_REVIEWED_NOT_SAVED",
+    "review": "BRAND_AND_MEASURE_CORRECTION_PERSISTED_PANEL",
     "variations": {
       "Personalização": [
         "Só texto 1 por placa",
         "1 Foto + 1 Texto",
         "2 Fotos + 2 Textos"
       ]
-    }
+    },
+    "components": [
+      {
+        "component": "text",
+        "state": "PERSISTED"
+      }
+    ],
+    "shop_id_from_visible_link": "757377509"
   },
   {
     "account": "ZEPHYRA-SHOPEE",
@@ -1650,7 +1658,8 @@
         "Coração + CAIXA",
         "Sol +CAIXA"
       ]
-    }
+    },
+    "shop_id_from_visible_link": "757377509"
   },
   {
     "account": "ZEPHYRA-SHOPEE",
@@ -1667,7 +1676,8 @@
         "component": "text",
         "state": "RETRY_READY"
       }
-    ]
+    ],
+    "shop_id_from_visible_link": "757377509"
   },
   {
     "account": "ZEPHYRA-SHOPEE",
@@ -1687,7 +1697,8 @@
         "Foto frente e Foto atrá+Caixa",
         "Foto Frente + Caixa de luxo"
       ]
-    }
+    },
+    "shop_id_from_visible_link": "757377509"
   },
   {
     "account": "ZEPHYRA-ML",
@@ -2027,7 +2038,8 @@
     "family_candidate": "pulseira",
     "physical_identity": "PENDING",
     "source": "Leitura de catálogo registrada em 2026-09-06; título resumido, não texto para publicar",
-    "review": "OBSERVED_PARTIAL"
+    "review": "OBSERVED_PARTIAL",
+    "shop_id_from_visible_link": "757377509"
   },
   {
     "account": "ZEPHYRA-SHOPEE",
@@ -2037,7 +2049,8 @@
     "family_candidate": "pulseira",
     "physical_identity": "PENDING",
     "source": "Leitura de catálogo registrada em 2026-09-06; título resumido, não texto para publicar",
-    "review": "OBSERVED_PARTIAL"
+    "review": "OBSERVED_PARTIAL",
+    "shop_id_from_visible_link": "757377509"
   },
   {
     "account": "ZEPHYRA-SHOPEE",
@@ -2047,17 +2060,19 @@
     "family_candidate": "modelo-a-reconciliar",
     "physical_identity": "PENDING",
     "source": "Leitura de catálogo registrada em 2026-09-06; título resumido, não texto para publicar",
-    "review": "OBSERVED_PARTIAL"
+    "review": "OBSERVED_PARTIAL",
+    "shop_id_from_visible_link": "757377509"
   },
   {
     "account": "ZEPHYRA-SHOPEE",
     "listing": "23995957452",
     "title_summary": "Pulseira infantil coração",
-    "sku": null,
+    "sku": "p1",
     "family_candidate": "pulseira-infantil",
     "physical_identity": "PENDING",
     "source": "Leitura de catálogo registrada em 2026-09-06; título resumido, não texto para publicar",
-    "review": "OBSERVED_PARTIAL"
+    "review": "OBSERVED_PARTIAL",
+    "shop_id_from_visible_link": "757377509"
   },
   {
     "account": "ZEPHYRA-SHOPEE",
@@ -2067,17 +2082,19 @@
     "family_candidate": "escapulario",
     "physical_identity": "PENDING",
     "source": "Leitura de catálogo registrada em 2026-09-06; título resumido, não texto para publicar",
-    "review": "OBSERVED_PARTIAL"
+    "review": "OBSERVED_PARTIAL",
+    "shop_id_from_visible_link": "757377509"
   },
   {
     "account": "ZEPHYRA-SHOPEE",
     "listing": "23191474109",
     "title_summary": "Pulseira infantil",
-    "sku": null,
+    "sku": "p1",
     "family_candidate": "pulseira-infantil",
     "physical_identity": "PENDING",
     "source": "Leitura de catálogo registrada em 2026-09-06; título resumido, não texto para publicar",
-    "review": "OBSERVED_PARTIAL"
+    "review": "OBSERVED_PARTIAL",
+    "shop_id_from_visible_link": "757377509"
   },
   {
     "account": "ZEPHYRA-SHOPEE",
@@ -2087,6 +2104,227 @@
     "family_candidate": "escapulario",
     "physical_identity": "PENDING",
     "source": "Leitura de catálogo registrada em 2026-09-06; título resumido, não texto para publicar",
-    "review": "OBSERVED_PARTIAL"
+    "review": "OBSERVED_PARTIAL",
+    "shop_id_from_visible_link": "757377509"
+  },
+  {
+    "account": "ZEPHYRA-SHOPEE",
+    "listing": "21902944916",
+    "title_summary": "Pulseira Menino Bebe Plaquinha P/ Gravar Nome Recém Nascido",
+    "sku": null,
+    "family_candidate": "pulseira-infantil",
+    "physical_identity": "PENDING",
+    "source": "UpSeller Zephyra Shopee: lista de 32 ativos visível em 06/09/2026; dados de listagem anteriores à sincronização individual",
+    "review": "OBSERVED_PARTIAL",
+    "shop_id_from_visible_link": "757377509"
+  },
+  {
+    "account": "ZEPHYRA-SHOPEE",
+    "listing": "21198018401",
+    "title_summary": "Colar personalizado lembrança pet",
+    "sku": null,
+    "family_candidate": "modelo-a-reconciliar",
+    "physical_identity": "PENDING",
+    "source": "UpSeller Zephyra Shopee: lista de 32 ativos visível em 06/09/2026; dados de listagem anteriores à sincronização individual",
+    "review": "OBSERVED_PARTIAL",
+    "shop_id_from_visible_link": "757377509"
+  },
+  {
+    "account": "ZEPHYRA-SHOPEE",
+    "listing": "23998310172",
+    "title_summary": "Colar Personalizado Pingente Coração Aço Inox Presente Família",
+    "sku": null,
+    "family_candidate": "coracao",
+    "physical_identity": "PENDING",
+    "source": "UpSeller Zephyra Shopee: lista de 32 ativos visível em 06/09/2026; dados de listagem anteriores à sincronização individual",
+    "review": "OBSERVED_PARTIAL",
+    "shop_id_from_visible_link": "757377509"
+  },
+  {
+    "account": "ZEPHYRA-SHOPEE",
+    "listing": "40628431282",
+    "title_summary": "Colar de profissão Medicina",
+    "sku": null,
+    "family_candidate": "modelo-a-reconciliar",
+    "physical_identity": "PENDING",
+    "source": "UpSeller Zephyra Shopee: lista de 32 ativos visível em 06/09/2026; dados de listagem anteriores à sincronização individual",
+    "review": "OBSERVED_PARTIAL",
+    "shop_id_from_visible_link": "757377509"
+  },
+  {
+    "account": "ZEPHYRA-SHOPEE",
+    "listing": "18997689046",
+    "title_summary": "Pulseira Personalizada Bebê Nome Gravado Banhada Ouro 18k",
+    "sku": null,
+    "family_candidate": "pulseira-infantil",
+    "physical_identity": "PENDING",
+    "source": "UpSeller Zephyra Shopee: lista de 32 ativos visível em 06/09/2026; dados de listagem anteriores à sincronização individual",
+    "review": "OBSERVED_PARTIAL",
+    "shop_id_from_visible_link": "757377509"
+  },
+  {
+    "account": "ZEPHYRA-SHOPEE",
+    "listing": "23995886323",
+    "title_summary": "Pulseira para Bebê Ouro 18K banhado Nome personalizado gravado",
+    "sku": null,
+    "family_candidate": "pulseira-infantil",
+    "physical_identity": "PENDING",
+    "source": "UpSeller Zephyra Shopee: lista de 32 ativos visível em 06/09/2026; dados de listagem anteriores à sincronização individual",
+    "review": "OBSERVED_PARTIAL",
+    "shop_id_from_visible_link": "757377509"
+  },
+  {
+    "account": "ZEPHYRA-SHOPEE",
+    "listing": "14284325725",
+    "title_summary": "Pulseira Infantil Recém Nascido Banho Ouro 18k Gravação",
+    "sku": null,
+    "family_candidate": "pulseira-infantil",
+    "physical_identity": "PENDING",
+    "source": "UpSeller Zephyra Shopee: lista de 32 ativos visível em 06/09/2026; dados de listagem anteriores à sincronização individual",
+    "review": "OBSERVED_PARTIAL",
+    "shop_id_from_visible_link": "757377509"
+  },
+  {
+    "account": "ZEPHYRA-SHOPEE",
+    "listing": "21499649025",
+    "title_summary": "Colar Corrente Personalizado Cordão Pingente Coração Filhos",
+    "sku": null,
+    "family_candidate": "coracao",
+    "physical_identity": "PENDING",
+    "source": "UpSeller Zephyra Shopee: lista de 32 ativos visível em 06/09/2026; dados de listagem anteriores à sincronização individual",
+    "review": "OBSERVED_PARTIAL",
+    "shop_id_from_visible_link": "757377509"
+  },
+  {
+    "account": "ZEPHYRA-SHOPEE",
+    "listing": "21299605309",
+    "title_summary": "Colar personalizado multiformato",
+    "sku": null,
+    "family_candidate": "modelo-a-reconciliar",
+    "physical_identity": "PENDING",
+    "source": "UpSeller Zephyra Shopee: lista de 32 ativos visível em 06/09/2026; dados de listagem anteriores à sincronização individual",
+    "review": "OBSERVED_PARTIAL",
+    "shop_id_from_visible_link": "757377509"
+  },
+  {
+    "account": "ZEPHYRA-SHOPEE",
+    "listing": "22793538336",
+    "title_summary": "Colar medalha personalizada",
+    "sku": null,
+    "family_candidate": "modelo-a-reconciliar",
+    "physical_identity": "PENDING",
+    "source": "UpSeller Zephyra Shopee: lista de 32 ativos visível em 06/09/2026; dados de listagem anteriores à sincronização individual",
+    "review": "OBSERVED_PARTIAL",
+    "shop_id_from_visible_link": "757377509"
+  },
+  {
+    "account": "ZEPHYRA-SHOPEE",
+    "listing": "50056987973",
+    "title_summary": "Colar Com Foto Ultra-realista Personalizado",
+    "sku": null,
+    "family_candidate": "modelo-a-reconciliar",
+    "physical_identity": "PENDING",
+    "source": "UpSeller Zephyra Shopee: lista de 32 ativos visível em 06/09/2026; dados de listagem anteriores à sincronização individual",
+    "review": "OBSERVED_PARTIAL",
+    "shop_id_from_visible_link": "757377509"
+  },
+  {
+    "account": "ZEPHYRA-SHOPEE",
+    "listing": "47907010717",
+    "title_summary": "Colar Coração Personalizado com Foto Gravada a Laser Aço Inox Presente Dia das Mães",
+    "sku": null,
+    "family_candidate": "coracao",
+    "physical_identity": "PENDING",
+    "source": "UpSeller Zephyra Shopee: lista de 32 ativos visível em 06/09/2026; dados de listagem anteriores à sincronização individual",
+    "review": "OBSERVED_PARTIAL",
+    "shop_id_from_visible_link": "757377509"
+  },
+  {
+    "account": "ZEPHYRA-SHOPEE",
+    "listing": "29641129289",
+    "title_summary": "Colar Olhar personalizado",
+    "sku": null,
+    "family_candidate": "olhar",
+    "physical_identity": "PENDING",
+    "source": "UpSeller Zephyra Shopee: lista de 32 ativos visível em 06/09/2026; dados de listagem anteriores à sincronização individual",
+    "review": "OBSERVED_PARTIAL",
+    "shop_id_from_visible_link": "757377509"
+  },
+  {
+    "account": "ZEPHYRA-SHOPEE",
+    "listing": "20597994614",
+    "title_summary": "Colar Pingente Coração Medalha Personalizada",
+    "sku": null,
+    "family_candidate": "coracao",
+    "physical_identity": "PENDING",
+    "source": "UpSeller Zephyra Shopee: lista de 32 ativos visível em 06/09/2026; dados de listagem anteriores à sincronização individual",
+    "review": "OBSERVED_PARTIAL",
+    "shop_id_from_visible_link": "757377509"
+  },
+  {
+    "account": "ZEPHYRA-SHOPEE",
+    "listing": "26795060160",
+    "title_summary": "Pingente liso para gravação atacado kit multiformato",
+    "sku": null,
+    "family_candidate": "lisos-b2b",
+    "physical_identity": "PENDING",
+    "source": "UpSeller Zephyra Shopee: lista de 32 ativos visível em 06/09/2026; dados de listagem anteriores à sincronização individual",
+    "review": "OBSERVED_PARTIAL",
+    "shop_id_from_visible_link": "757377509"
+  },
+  {
+    "account": "ZEPHYRA-SHOPEE",
+    "listing": "41611083876",
+    "title_summary": "Colar personalizado com fotogravação",
+    "sku": null,
+    "family_candidate": "modelo-a-reconciliar",
+    "physical_identity": "PENDING",
+    "source": "UpSeller Zephyra Shopee: lista de 32 ativos visível em 06/09/2026; dados de listagem anteriores à sincronização individual",
+    "review": "OBSERVED_PARTIAL",
+    "shop_id_from_visible_link": "757377509"
+  },
+  {
+    "account": "ZEPHYRA-SHOPEE",
+    "listing": "46665789894",
+    "title_summary": "Colar Aço Inox com Pingente Personalizado com código Spotify",
+    "sku": null,
+    "family_candidate": "modelo-a-reconciliar",
+    "physical_identity": "PENDING",
+    "source": "UpSeller Zephyra Shopee: lista de 32 ativos visível em 06/09/2026; dados de listagem anteriores à sincronização individual",
+    "review": "OBSERVED_PARTIAL",
+    "shop_id_from_visible_link": "757377509"
+  },
+  {
+    "account": "ZEPHYRA-SHOPEE",
+    "listing": "51005496163",
+    "title_summary": "Colar de profissão Engenharia Civil",
+    "sku": null,
+    "family_candidate": "modelo-a-reconciliar",
+    "physical_identity": "PENDING",
+    "source": "UpSeller Zephyra Shopee: lista de 32 ativos visível em 06/09/2026; dados de listagem anteriores à sincronização individual",
+    "review": "OBSERVED_PARTIAL",
+    "shop_id_from_visible_link": "757377509"
+  },
+  {
+    "account": "ZEPHYRA-SHOPEE",
+    "listing": "54355491652",
+    "title_summary": "Colar de profissão Psicologia",
+    "sku": null,
+    "family_candidate": "modelo-a-reconciliar",
+    "physical_identity": "PENDING",
+    "source": "UpSeller Zephyra Shopee: lista de 32 ativos visível em 06/09/2026; dados de listagem anteriores à sincronização individual",
+    "review": "OBSERVED_PARTIAL",
+    "shop_id_from_visible_link": "757377509"
+  },
+  {
+    "account": "ZEPHYRA-SHOPEE",
+    "listing": "22698028440",
+    "title_summary": "Pulseira Personalizada Nome Data Casal Identificação Idoso",
+    "sku": "PUL_ID",
+    "family_candidate": "pulseira",
+    "physical_identity": "PENDING",
+    "source": "UpSeller Zephyra Shopee: lista de 32 ativos visível em 06/09/2026; dados de listagem anteriores à sincronização individual",
+    "review": "OBSERVED_PARTIAL",
+    "shop_id_from_visible_link": "757377509"
   }
 ]

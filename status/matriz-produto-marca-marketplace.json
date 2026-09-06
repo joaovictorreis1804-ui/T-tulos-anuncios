@@ -4,33 +4,36 @@
     "account": "ARION-ML",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "chaveiro",
     "account": "ARION-SHOPEE",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "chaveiro",
     "account": "ARION-TIKTOK",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "chaveiro",
@@ -39,88 +42,96 @@
       "MLB3420172747"
     ],
     "observed_count": 1,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "OBSERVED",
-    "next": "Reconciliar modelo físico e variações; preservar componentes concluídos"
+    "next": "Concluir revisão por componente e reconciliar identidade física"
   },
   {
     "family_candidate": "chaveiro",
     "account": "ZEPHYRA-SHOPEE",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "chaveiro",
     "account": "ZEPHYRA-TIKTOK",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "chaveiro",
     "account": "JOIAS-FAMILIARES-ML",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "chaveiro",
     "account": "JOIAS-FAMILIARES-SHOPEE",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "chaveiro",
     "account": "JOIAS-FAMILIARES-TIKTOK",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "chaveiro",
     "account": "ROSSI-JOIAS-ML",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "chaveiro",
     "account": "ROSSI-JOIAS-SHOPEE",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "coracao",
@@ -141,11 +152,12 @@
       "MLB6100968528"
     ],
     "observed_count": 13,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "OBSERVED",
-    "next": "Reconciliar modelo físico e variações; preservar componentes concluídos"
+    "next": "Concluir revisão por componente e reconciliar identidade física"
   },
   {
     "family_candidate": "coracao",
@@ -156,22 +168,24 @@
       "45007049087"
     ],
     "observed_count": 3,
+    "listings_with_at_least_one_persisted_component": 3,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "OBSERVED",
-    "next": "Reconciliar modelo físico e variações; preservar componentes concluídos"
+    "next": "Concluir revisão por componente e reconciliar identidade física"
   },
   {
     "family_candidate": "coracao",
     "account": "ARION-TIKTOK",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "coracao",
@@ -180,88 +194,101 @@
       "MLB3976497229"
     ],
     "observed_count": 1,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "OBSERVED",
-    "next": "Reconciliar modelo físico e variações; preservar componentes concluídos"
+    "next": "Concluir revisão por componente e reconciliar identidade física"
   },
   {
     "family_candidate": "coracao",
     "account": "ZEPHYRA-SHOPEE",
-    "observed_listing_ids": [],
-    "observed_count": 0,
+    "observed_listing_ids": [
+      "23998310172",
+      "21499649025",
+      "47907010717",
+      "20597994614"
+    ],
+    "observed_count": 4,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
-    "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "presence": "OBSERVED",
+    "next": "Concluir revisão por componente e reconciliar identidade física"
   },
   {
     "family_candidate": "coracao",
     "account": "ZEPHYRA-TIKTOK",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "coracao",
     "account": "JOIAS-FAMILIARES-ML",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "coracao",
     "account": "JOIAS-FAMILIARES-SHOPEE",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "coracao",
     "account": "JOIAS-FAMILIARES-TIKTOK",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "coracao",
     "account": "ROSSI-JOIAS-ML",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "coracao",
     "account": "ROSSI-JOIAS-SHOPEE",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "escapulario",
@@ -276,33 +303,36 @@
       "MLB7329100584"
     ],
     "observed_count": 7,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "OBSERVED",
-    "next": "Reconciliar modelo físico e variações; preservar componentes concluídos"
+    "next": "Concluir revisão por componente e reconciliar identidade física"
   },
   {
     "family_candidate": "escapulario",
     "account": "ARION-SHOPEE",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "escapulario",
     "account": "ARION-TIKTOK",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "escapulario",
@@ -311,11 +341,12 @@
       "MLB5287070006"
     ],
     "observed_count": 1,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "OBSERVED",
-    "next": "Reconciliar modelo físico e variações; preservar componentes concluídos"
+    "next": "Concluir revisão por componente e reconciliar identidade física"
   },
   {
     "family_candidate": "escapulario",
@@ -326,55 +357,60 @@
       "22493714247"
     ],
     "observed_count": 3,
+    "listings_with_at_least_one_persisted_component": 1,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "OBSERVED",
-    "next": "Reconciliar modelo físico e variações; preservar componentes concluídos"
+    "next": "Concluir revisão por componente e reconciliar identidade física"
   },
   {
     "family_candidate": "escapulario",
     "account": "ZEPHYRA-TIKTOK",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "escapulario",
     "account": "JOIAS-FAMILIARES-ML",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "escapulario",
     "account": "JOIAS-FAMILIARES-SHOPEE",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "escapulario",
     "account": "JOIAS-FAMILIARES-TIKTOK",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "escapulario",
@@ -384,66 +420,72 @@
       "MLB4962226015"
     ],
     "observed_count": 2,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "OBSERVED",
-    "next": "Reconciliar modelo físico e variações; preservar componentes concluídos"
+    "next": "Concluir revisão por componente e reconciliar identidade física"
   },
   {
     "family_candidate": "escapulario",
     "account": "ROSSI-JOIAS-SHOPEE",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "kit-casal",
     "account": "ARION-ML",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "kit-casal",
     "account": "ARION-SHOPEE",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "kit-casal",
     "account": "ARION-TIKTOK",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "kit-casal",
     "account": "ZEPHYRA-ML",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "kit-casal",
@@ -452,77 +494,218 @@
       "45304063028"
     ],
     "observed_count": 1,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "OBSERVED",
-    "next": "Reconciliar modelo físico e variações; preservar componentes concluídos"
+    "next": "Concluir revisão por componente e reconciliar identidade física"
   },
   {
     "family_candidate": "kit-casal",
     "account": "ZEPHYRA-TIKTOK",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "kit-casal",
     "account": "JOIAS-FAMILIARES-ML",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "kit-casal",
     "account": "JOIAS-FAMILIARES-SHOPEE",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "kit-casal",
     "account": "JOIAS-FAMILIARES-TIKTOK",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "kit-casal",
     "account": "ROSSI-JOIAS-ML",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "kit-casal",
     "account": "ROSSI-JOIAS-SHOPEE",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
+  },
+  {
+    "family_candidate": "lisos-b2b",
+    "account": "ARION-ML",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Confirmar presença no catálogo; não presumir ausência"
+  },
+  {
+    "family_candidate": "lisos-b2b",
+    "account": "ARION-SHOPEE",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Confirmar presença no catálogo; não presumir ausência"
+  },
+  {
+    "family_candidate": "lisos-b2b",
+    "account": "ARION-TIKTOK",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Confirmar presença no catálogo; não presumir ausência"
+  },
+  {
+    "family_candidate": "lisos-b2b",
+    "account": "ZEPHYRA-ML",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Confirmar presença no catálogo; não presumir ausência"
+  },
+  {
+    "family_candidate": "lisos-b2b",
+    "account": "ZEPHYRA-SHOPEE",
+    "observed_listing_ids": [
+      "26795060160"
+    ],
+    "observed_count": 1,
+    "listings_with_at_least_one_persisted_component": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "OBSERVED",
+    "next": "Concluir revisão por componente e reconciliar identidade física"
+  },
+  {
+    "family_candidate": "lisos-b2b",
+    "account": "ZEPHYRA-TIKTOK",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Confirmar presença no catálogo; não presumir ausência"
+  },
+  {
+    "family_candidate": "lisos-b2b",
+    "account": "JOIAS-FAMILIARES-ML",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Confirmar presença no catálogo; não presumir ausência"
+  },
+  {
+    "family_candidate": "lisos-b2b",
+    "account": "JOIAS-FAMILIARES-SHOPEE",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Confirmar presença no catálogo; não presumir ausência"
+  },
+  {
+    "family_candidate": "lisos-b2b",
+    "account": "JOIAS-FAMILIARES-TIKTOK",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Confirmar presença no catálogo; não presumir ausência"
+  },
+  {
+    "family_candidate": "lisos-b2b",
+    "account": "ROSSI-JOIAS-ML",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Confirmar presença no catálogo; não presumir ausência"
+  },
+  {
+    "family_candidate": "lisos-b2b",
+    "account": "ROSSI-JOIAS-SHOPEE",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "modelo-a-reconciliar",
@@ -628,11 +811,12 @@
       "MLB6100851922"
     ],
     "observed_count": 98,
+    "listings_with_at_least_one_persisted_component": 9,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "OBSERVED",
-    "next": "Reconciliar modelo físico e variações; preservar componentes concluídos"
+    "next": "Concluir revisão por componente e reconciliar identidade física"
   },
   {
     "family_candidate": "modelo-a-reconciliar",
@@ -642,22 +826,24 @@
       "44607056061"
     ],
     "observed_count": 2,
+    "listings_with_at_least_one_persisted_component": 2,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "OBSERVED",
-    "next": "Reconciliar modelo físico e variações; preservar componentes concluídos"
+    "next": "Concluir revisão por componente e reconciliar identidade física"
   },
   {
     "family_candidate": "modelo-a-reconciliar",
     "account": "ARION-TIKTOK",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "modelo-a-reconciliar",
@@ -668,68 +854,83 @@
       "MLB5287292312"
     ],
     "observed_count": 3,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "OBSERVED",
-    "next": "Reconciliar modelo físico e variações; preservar componentes concluídos"
+    "next": "Concluir revisão por componente e reconciliar identidade física"
   },
   {
     "family_candidate": "modelo-a-reconciliar",
     "account": "ZEPHYRA-SHOPEE",
     "observed_listing_ids": [
-      "45656999836"
+      "45656999836",
+      "21198018401",
+      "40628431282",
+      "21299605309",
+      "22793538336",
+      "50056987973",
+      "41611083876",
+      "46665789894",
+      "51005496163",
+      "54355491652"
     ],
-    "observed_count": 1,
+    "observed_count": 10,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "OBSERVED",
-    "next": "Reconciliar modelo físico e variações; preservar componentes concluídos"
+    "next": "Concluir revisão por componente e reconciliar identidade física"
   },
   {
     "family_candidate": "modelo-a-reconciliar",
     "account": "ZEPHYRA-TIKTOK",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "modelo-a-reconciliar",
     "account": "JOIAS-FAMILIARES-ML",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "modelo-a-reconciliar",
     "account": "JOIAS-FAMILIARES-SHOPEE",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "modelo-a-reconciliar",
     "account": "JOIAS-FAMILIARES-TIKTOK",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "modelo-a-reconciliar",
@@ -738,11 +939,12 @@
       "MLB4820101239"
     ],
     "observed_count": 1,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "OBSERVED",
-    "next": "Reconciliar modelo físico e variações; preservar componentes concluídos"
+    "next": "Concluir revisão por componente e reconciliar identidade física"
   },
   {
     "family_candidate": "modelo-a-reconciliar",
@@ -752,11 +954,12 @@
       "58263388907"
     ],
     "observed_count": 2,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "OBSERVED",
-    "next": "Reconciliar modelo físico e variações; preservar componentes concluídos"
+    "next": "Concluir revisão por componente e reconciliar identidade física"
   },
   {
     "family_candidate": "olhar",
@@ -765,11 +968,12 @@
       "MLB5000427459"
     ],
     "observed_count": 1,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "OBSERVED",
-    "next": "Reconciliar modelo físico e variações; preservar componentes concluídos"
+    "next": "Concluir revisão por componente e reconciliar identidade física"
   },
   {
     "family_candidate": "olhar",
@@ -778,22 +982,24 @@
       "22094403692"
     ],
     "observed_count": 1,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "OBSERVED",
-    "next": "Reconciliar modelo físico e variações; preservar componentes concluídos"
+    "next": "Concluir revisão por componente e reconciliar identidade física"
   },
   {
     "family_candidate": "olhar",
     "account": "ARION-TIKTOK",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "olhar",
@@ -802,214 +1008,235 @@
       "MLB3944682661"
     ],
     "observed_count": 1,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "OBSERVED",
-    "next": "Reconciliar modelo físico e variações; preservar componentes concluídos"
+    "next": "Concluir revisão por componente e reconciliar identidade física"
   },
   {
     "family_candidate": "olhar",
     "account": "ZEPHYRA-SHOPEE",
     "observed_listing_ids": [
-      "41717552144"
+      "41717552144",
+      "29641129289"
     ],
-    "observed_count": 1,
+    "observed_count": 2,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "OBSERVED",
-    "next": "Reconciliar modelo físico e variações; preservar componentes concluídos"
+    "next": "Concluir revisão por componente e reconciliar identidade física"
   },
   {
     "family_candidate": "olhar",
     "account": "ZEPHYRA-TIKTOK",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "olhar",
     "account": "JOIAS-FAMILIARES-ML",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "olhar",
     "account": "JOIAS-FAMILIARES-SHOPEE",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "olhar",
     "account": "JOIAS-FAMILIARES-TIKTOK",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "olhar",
     "account": "ROSSI-JOIAS-ML",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "olhar",
     "account": "ROSSI-JOIAS-SHOPEE",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "pulseira",
     "account": "ARION-ML",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "pulseira",
     "account": "ARION-SHOPEE",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "pulseira",
     "account": "ARION-TIKTOK",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "pulseira",
     "account": "ZEPHYRA-ML",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "pulseira",
     "account": "ZEPHYRA-SHOPEE",
     "observed_listing_ids": [
       "23893329787",
-      "21199649050"
+      "21199649050",
+      "22698028440"
     ],
-    "observed_count": 2,
+    "observed_count": 3,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "OBSERVED",
-    "next": "Reconciliar modelo físico e variações; preservar componentes concluídos"
+    "next": "Concluir revisão por componente e reconciliar identidade física"
   },
   {
     "family_candidate": "pulseira",
     "account": "ZEPHYRA-TIKTOK",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "pulseira",
     "account": "JOIAS-FAMILIARES-ML",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "pulseira",
     "account": "JOIAS-FAMILIARES-SHOPEE",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "pulseira",
     "account": "JOIAS-FAMILIARES-TIKTOK",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "pulseira",
     "account": "ROSSI-JOIAS-ML",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "pulseira",
     "account": "ROSSI-JOIAS-SHOPEE",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "pulseira-infantil",
@@ -1021,33 +1248,36 @@
       "MLB4068183059"
     ],
     "observed_count": 4,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "OBSERVED",
-    "next": "Reconciliar modelo físico e variações; preservar componentes concluídos"
+    "next": "Concluir revisão por componente e reconciliar identidade física"
   },
   {
     "family_candidate": "pulseira-infantil",
     "account": "ARION-SHOPEE",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "pulseira-infantil",
     "account": "ARION-TIKTOK",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "pulseira-infantil",
@@ -1058,11 +1288,12 @@
       "MLB1834722259"
     ],
     "observed_count": 3,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "OBSERVED",
-    "next": "Reconciliar modelo físico e variações; preservar componentes concluídos"
+    "next": "Concluir revisão por componente e reconciliar identidade física"
   },
   {
     "family_candidate": "pulseira-infantil",
@@ -1070,58 +1301,67 @@
     "observed_listing_ids": [
       "18298628849",
       "23995957452",
-      "23191474109"
+      "23191474109",
+      "21902944916",
+      "18997689046",
+      "23995886323",
+      "14284325725"
     ],
-    "observed_count": 3,
+    "observed_count": 7,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "OBSERVED",
-    "next": "Reconciliar modelo físico e variações; preservar componentes concluídos"
+    "next": "Concluir revisão por componente e reconciliar identidade física"
   },
   {
     "family_candidate": "pulseira-infantil",
     "account": "ZEPHYRA-TIKTOK",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "pulseira-infantil",
     "account": "JOIAS-FAMILIARES-ML",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "pulseira-infantil",
     "account": "JOIAS-FAMILIARES-SHOPEE",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "pulseira-infantil",
     "account": "JOIAS-FAMILIARES-TIKTOK",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "pulseira-infantil",
@@ -1130,22 +1370,24 @@
       "MLB4962224991"
     ],
     "observed_count": 1,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "OBSERVED",
-    "next": "Reconciliar modelo físico e variações; preservar componentes concluídos"
+    "next": "Concluir revisão por componente e reconciliar identidade física"
   },
   {
     "family_candidate": "pulseira-infantil",
     "account": "ROSSI-JOIAS-SHOPEE",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "pulseira-olhar",
@@ -1156,33 +1398,36 @@
       "MLB4075868407"
     ],
     "observed_count": 3,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "OBSERVED",
-    "next": "Reconciliar modelo físico e variações; preservar componentes concluídos"
+    "next": "Concluir revisão por componente e reconciliar identidade física"
   },
   {
     "family_candidate": "pulseira-olhar",
     "account": "ARION-SHOPEE",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "pulseira-olhar",
     "account": "ARION-TIKTOK",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "pulseira-olhar",
@@ -1191,11 +1436,12 @@
       "MLB5290579084"
     ],
     "observed_count": 1,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "OBSERVED",
-    "next": "Reconciliar modelo físico e variações; preservar componentes concluídos"
+    "next": "Concluir revisão por componente e reconciliar identidade física"
   },
   {
     "family_candidate": "pulseira-olhar",
@@ -1204,66 +1450,72 @@
       "22098254165"
     ],
     "observed_count": 1,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "OBSERVED",
-    "next": "Reconciliar modelo físico e variações; preservar componentes concluídos"
+    "next": "Concluir revisão por componente e reconciliar identidade física"
   },
   {
     "family_candidate": "pulseira-olhar",
     "account": "ZEPHYRA-TIKTOK",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "pulseira-olhar",
     "account": "JOIAS-FAMILIARES-ML",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "pulseira-olhar",
     "account": "JOIAS-FAMILIARES-SHOPEE",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "pulseira-olhar",
     "account": "JOIAS-FAMILIARES-TIKTOK",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "pulseira-olhar",
     "account": "ROSSI-JOIAS-ML",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "pulseira-olhar",
@@ -1272,110 +1524,120 @@
       "58213295966"
     ],
     "observed_count": 1,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "OBSERVED",
-    "next": "Reconciliar modelo físico e variações; preservar componentes concluídos"
+    "next": "Concluir revisão por componente e reconciliar identidade física"
   },
   {
     "family_candidate": "quadrado",
     "account": "ARION-ML",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "quadrado",
     "account": "ARION-SHOPEE",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "quadrado",
     "account": "ARION-TIKTOK",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "quadrado",
     "account": "ZEPHYRA-ML",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "quadrado",
     "account": "ZEPHYRA-SHOPEE",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "quadrado",
     "account": "ZEPHYRA-TIKTOK",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "quadrado",
     "account": "JOIAS-FAMILIARES-ML",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "quadrado",
     "account": "JOIAS-FAMILIARES-SHOPEE",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "quadrado",
     "account": "JOIAS-FAMILIARES-TIKTOK",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "quadrado",
@@ -1384,22 +1646,24 @@
       "MLB5114998131"
     ],
     "observed_count": 1,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "OBSERVED",
-    "next": "Reconciliar modelo físico e variações; preservar componentes concluídos"
+    "next": "Concluir revisão por componente e reconciliar identidade física"
   },
   {
     "family_candidate": "quadrado",
     "account": "ROSSI-JOIAS-SHOPEE",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "redondo",
@@ -1409,99 +1673,108 @@
       "MLB6100942506"
     ],
     "observed_count": 2,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "OBSERVED",
-    "next": "Reconciliar modelo físico e variações; preservar componentes concluídos"
+    "next": "Concluir revisão por componente e reconciliar identidade física"
   },
   {
     "family_candidate": "redondo",
     "account": "ARION-SHOPEE",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "redondo",
     "account": "ARION-TIKTOK",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "redondo",
     "account": "ZEPHYRA-ML",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "redondo",
     "account": "ZEPHYRA-SHOPEE",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "redondo",
     "account": "ZEPHYRA-TIKTOK",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "redondo",
     "account": "JOIAS-FAMILIARES-ML",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "redondo",
     "account": "JOIAS-FAMILIARES-SHOPEE",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "redondo",
     "account": "JOIAS-FAMILIARES-TIKTOK",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   },
   {
     "family_candidate": "redondo",
@@ -1510,21 +1783,23 @@
       "MLB5115061705"
     ],
     "observed_count": 1,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "OBSERVED",
-    "next": "Reconciliar modelo físico e variações; preservar componentes concluídos"
+    "next": "Concluir revisão por componente e reconciliar identidade física"
   },
   {
     "family_candidate": "redondo",
     "account": "ROSSI-JOIAS-SHOPEE",
     "observed_listing_ids": [],
     "observed_count": 0,
+    "listings_with_at_least_one_persisted_component": 0,
     "complete_inventory": false,
     "reviewed_complete_ads": null,
     "new_published_this_round": 0,
     "presence": "NOT_VERIFIED_NOT_ABSENT",
-    "next": "Identificar loja e consultar catálogo"
+    "next": "Confirmar presença no catálogo; não presumir ausência"
   }
 ]
