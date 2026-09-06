@@ -34,3 +34,12 @@ Próxima ação: conferir novamente resultado do segundo escapulário; liberar e
 1733817983283135518: nova leitura independente após a espera confirmou descrição integral igual ao texto corrigido e estado Ativo. Diário PERSISTED, reserva liberada por observação; não houve segundo envio. Os DOIS escapulários do lote estão corrigidos no painel; apresentação pública não conferida.
 1733838980986340382: aplicadas descrição de corrente 45 cm ou 60 cm conforme opção e medida do pingente 8 × 26 mm. Título, nove imagens, duas opções, quantidade do kit, preços e estoques preservados. Texto integral conferido antes de um único Atualizar. TikTok confirmou Produto enviado / em análise. Aguardando leitura independente após moderação; NÃO declarar publicado.
 Próximo: conferir persistência do kit; revisar coração e redondo. Revisão completa de mídias, garantia, categoria e personalização continua pendente.
+
+
+## Continuação — kit e coração confirmados no painel
+Kit 1733838980986340382: leitura após recarregar confirmou texto integral corrigido (correntes 45 ou 60 cm e pingente 8 × 26 mm), anúncio Ativo. Nove imagens, título, duas opções, quantidade do kit e condições comerciais preservados. Diário PERSISTED. Não reenviar.
+Coração 1733804962235778078: corrigida somente medida 2,35 × 2,30 cm para 24 × 23,507 mm. Texto integral conferido antes do envio. Um único Atualizar teve timeout; recuperação mostrou Produto enviado. Reabertura posterior confirmou descrição integral corrigida e Ativo; diário PERSISTED por reconciliação, sem segundo envio. Nove imagens, título, duas opções de corrente e condições comerciais preservados.
+Nenhuma dessas verificações é conferência pública. Revisão visual completa e condições operacionais continuam pendentes; não declarar anúncio completo concluído.
+Coração: altura total com argola 4,5 cm permanece pendência factual separada. O desenho fornecido não esclarece essa altura. Prévia obrigatória e prazo condicional de produção existentes precisam de reconciliação específica da Zephyra.
+Redondo 1733818830331937822: navegação ao editor realizada, mas leitura falhou por timeout do controle e reiniciou a sessão. Nenhuma edição realizada. Próximo: retomar leitura desse anúncio e comparar medida com 20 × 22,171 mm informados pelo responsável; sem assumir eixos, argola ou espessura.
+Bloqueio observado é de resposta do controle do navegador, não CAPTCHA ou senha. Após falhas recorrentes, encerrada esta tentativa de leitura. Nenhum login nem credencial foi solicitado ou registrado.
