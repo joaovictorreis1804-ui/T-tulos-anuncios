@@ -21,3 +21,10 @@
 Escapulário 1733818803081348126: duas correções pontuais de descrição enviadas em uma única atualização: medida 12 × 18,447 mm e remoção de marcador técnico de citação. A interface confirmou envio para análise. Publicação ainda não verificada. Título, imagens, marca, opções e condições comerciais preservados. Próxima leitura deve reconciliar a moderação sem reenviar.
 
 Há um item suspenso com dependência de documentação de marca, mantido sem alteração. Categoria sugerida pela plataforma e promessas operacionais da descrição exigem revisão separada. Os contadores de desempenho da listagem não apresentaram período definido; não foi calculada conversão.
+
+
+## Retomada TikTok — primeiro persistido, segundo aguardando reconciliação
+1733818803081348126: painel nativo confirmou descrição integral corrigida, anúncio ativo e lista Em análise 0. Diário PERSISTED; conferência pública não realizada. Não reenviar.
+1733817983283135518: corrigidos somente medida 12 × 18,447 mm e marcador técnico; único Atualizar teve timeout, mas leitura seguinte confirmou Produto enviado / em análise. Nova leitura independente ainda mostrou texto antigo; não reenviar. Reserva permanece protegida até reconciliação do resultado.
+Kit 1733838980986340382: revisão revelou opções 45 e 60 cm, enquanto descrição dizia só 45 cm, e pingente 26 × 7 mm divergente da medida confirmada 8 × 26 mm. Pacote com apenas essas duas correções preparado e autorizado pela regra factual; NÃO aplicado. Título, nove imagens, duas variantes, preço e estoque preservados. Espessura, corrente, mídias e categoria continuam revisão separada.
+Próxima ação: conferir novamente resultado do segundo escapulário; liberar escrita somente por reconciliação comprovada, então aplicar e verificar o kit. Sem nova publicação nem upload de vídeo neste ciclo.
