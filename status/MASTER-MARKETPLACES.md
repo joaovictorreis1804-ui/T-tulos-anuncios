@@ -66,3 +66,9 @@ Próximo: reconciliar moderação e revisar o segundo escapulário 1733817983283
 1733817983283135518: corrigidos somente medida 12 × 18,447 mm e marcador técnico; único Atualizar teve timeout, mas leitura seguinte confirmou Produto enviado / em análise. Nova leitura independente ainda mostrou texto antigo; não reenviar. Reserva permanece protegida até reconciliação do resultado.
 Kit 1733838980986340382: revisão revelou opções 45 e 60 cm, enquanto descrição dizia só 45 cm, e pingente 26 × 7 mm divergente da medida confirmada 8 × 26 mm. Pacote com apenas essas duas correções preparado e autorizado pela regra factual; NÃO aplicado. Título, nove imagens, duas variantes, preço e estoque preservados. Espessura, corrente, mídias e categoria continuam revisão separada.
 Próxima ação: conferir novamente resultado do segundo escapulário; liberar escrita somente por reconciliação comprovada, então aplicar e verificar o kit. Sem nova publicação nem upload de vídeo neste ciclo.
+
+
+## Atualização final do lote — dois escapulários persistidos; kit enviado
+1733817983283135518: nova leitura independente após a espera confirmou descrição integral igual ao texto corrigido e estado Ativo. Diário PERSISTED, reserva liberada por observação; não houve segundo envio. Os DOIS escapulários do lote estão corrigidos no painel; apresentação pública não conferida.
+1733838980986340382: aplicadas descrição de corrente 45 cm ou 60 cm conforme opção e medida do pingente 8 × 26 mm. Título, nove imagens, duas opções, quantidade do kit, preços e estoques preservados. Texto integral conferido antes de um único Atualizar. TikTok confirmou Produto enviado / em análise. Aguardando leitura independente após moderação; NÃO declarar publicado.
+Próximo: conferir persistência do kit; revisar coração e redondo. Revisão completa de mídias, garantia, categoria e personalização continua pendente.
