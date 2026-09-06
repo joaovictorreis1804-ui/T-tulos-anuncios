@@ -40,3 +40,11 @@ Lista de 32 ativos da Zephyra Shopee incorporada a partir da UI UpSeller, inclui
 Última falha: Chrome perdeu conexão de controle (debugger unattached). Pulseira permanece sem confirmação de salvamento, com reconciliação obrigatória. Nenhuma nova tentativa até recuperar controle observável. Não confundir isso com pedido de senha ou CAPTCHA identificado.
 
 Repositório publicado e master lido de volta com conteúdo idêntico no commit 3006585eba67aee03dbf2cf12fc2fc393c601228; esta ampliação será registrada no próximo commit.
+
+
+## Retomada confirmada — 2026-09-06T17:46:04.541419+00:00
+Pulseira infantil Zephyra Shopee 18298628849: título e descrição corrigidos enviados uma única vez pelo UpSeller (Total 1, Sucesso 1, Falhou 0). Leitura independente no Seller Center confirmou integralmente título e descrição, identidade da loja Zephyra. Preço, estoque, oito imagens, SKU e ausência de variações preservados. Verificação pública dispensada. Substitui o estado anterior de salvamento incerto; não reenviar. Próxima prioridade: identificar loja e ofertas existentes no TikTok Shop.
+
+
+## TikTok Zephyra — acesso parcial confirmado na retomada
+A interface nativa mostrou a loja Zephyra Joias & Personalizados e contador de 12 anúncios em 06/09/2026. A leitura da página inicial funcionou; a interação com Produtos falhou no controle do navegador, antes de qualquer edição. Não é bloqueio de senha nem CAPTCHA confirmado. Catálogo e IDs ainda não lidos; não presumir presença ou ausência de escapulário e coração. Próxima ação: retomar pelo menu Produtos na sessão identificada, sem repetir a correção já persistida da pulseira Shopee. Conteúdo e criativos preparados por família continuam disponíveis; nenhuma oferta TikTok publicada.
