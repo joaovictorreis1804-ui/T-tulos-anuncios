@@ -1,0 +1,56 @@
+[
+  {
+    "sku": "COL_ACO_CORA_45_CX",
+    "listings": [
+      "ARION-ML|MLB4038663427",
+      "ARION-ML|MLB4038626177",
+      "ARION-ML|MLB5359993400"
+    ],
+    "decision": "CANDIDATE_ONLY_DO_NOT_MERGE"
+  },
+  {
+    "sku": "ESCAP",
+    "listings": [
+      "ARION-ML|MLB5371697838",
+      "ARION-ML|MLB5371632852",
+      "ARION-ML|MLB6107671796"
+    ],
+    "decision": "CANDIDATE_ONLY_DO_NOT_MERGE"
+  },
+  {
+    "sku": "PUL_ACO_CX",
+    "listings": [
+      "ARION-ML|MLB5403718946",
+      "ARION-ML|MLB5405338528",
+      "ARION-ML|MLB4075868407"
+    ],
+    "decision": "CANDIDATE_ONLY_DO_NOT_MERGE"
+  },
+  {
+    "sku": "COL_ACO_RED_45_CX",
+    "listings": [
+      "ARION-ML|MLB5360024768",
+      "ARION-ML|MLB6100645178",
+      "ARION-ML|MLB4454313549"
+    ],
+    "decision": "CANDIDATE_ONLY_DO_NOT_MERGE"
+  },
+  {
+    "sku": "PUL_18K_BB_CX",
+    "listings": [
+      "ARION-ML|MLB4988779191",
+      "ARION-ML|MLB5397212260",
+      "ARION-ML|MLB4988659949",
+      "ARION-ML|MLB4068183059"
+    ],
+    "decision": "CANDIDATE_ONLY_DO_NOT_MERGE"
+  },
+  {
+    "sku": "COL_18K_RED_P_CX",
+    "listings": [
+      "ARION-ML|MLB5359967682",
+      "ARION-ML|MLB5360101966"
+    ],
+    "decision": "CANDIDATE_ONLY_DO_NOT_MERGE"
+  }
+]

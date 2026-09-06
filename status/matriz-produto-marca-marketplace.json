@@ -1,0 +1,1530 @@
+[
+  {
+    "family_candidate": "chaveiro",
+    "account": "ARION-ML",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "chaveiro",
+    "account": "ARION-SHOPEE",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "chaveiro",
+    "account": "ARION-TIKTOK",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "chaveiro",
+    "account": "ZEPHYRA-ML",
+    "observed_listing_ids": [
+      "MLB3420172747"
+    ],
+    "observed_count": 1,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "OBSERVED",
+    "next": "Reconciliar modelo físico e variações; preservar componentes concluídos"
+  },
+  {
+    "family_candidate": "chaveiro",
+    "account": "ZEPHYRA-SHOPEE",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "chaveiro",
+    "account": "ZEPHYRA-TIKTOK",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "chaveiro",
+    "account": "JOIAS-FAMILIARES-ML",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "chaveiro",
+    "account": "JOIAS-FAMILIARES-SHOPEE",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "chaveiro",
+    "account": "JOIAS-FAMILIARES-TIKTOK",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "chaveiro",
+    "account": "ROSSI-JOIAS-ML",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "chaveiro",
+    "account": "ROSSI-JOIAS-SHOPEE",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "coracao",
+    "account": "ARION-ML",
+    "observed_listing_ids": [
+      "MLB4038663427",
+      "MLB4038626177",
+      "MLB5359993400",
+      "MLB4993029133",
+      "MLB5360115108",
+      "MLB5360103948",
+      "MLB6100942504",
+      "MLB6100981386",
+      "MLB6100942508",
+      "MLB6100994474",
+      "MLB6100773920",
+      "MLB6100748096",
+      "MLB6100968528"
+    ],
+    "observed_count": 13,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "OBSERVED",
+    "next": "Reconciliar modelo físico e variações; preservar componentes concluídos"
+  },
+  {
+    "family_candidate": "coracao",
+    "account": "ARION-SHOPEE",
+    "observed_listing_ids": [
+      "18599789613",
+      "22094297503",
+      "45007049087"
+    ],
+    "observed_count": 3,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "OBSERVED",
+    "next": "Reconciliar modelo físico e variações; preservar componentes concluídos"
+  },
+  {
+    "family_candidate": "coracao",
+    "account": "ARION-TIKTOK",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "coracao",
+    "account": "ZEPHYRA-ML",
+    "observed_listing_ids": [
+      "MLB3976497229"
+    ],
+    "observed_count": 1,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "OBSERVED",
+    "next": "Reconciliar modelo físico e variações; preservar componentes concluídos"
+  },
+  {
+    "family_candidate": "coracao",
+    "account": "ZEPHYRA-SHOPEE",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "coracao",
+    "account": "ZEPHYRA-TIKTOK",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "coracao",
+    "account": "JOIAS-FAMILIARES-ML",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "coracao",
+    "account": "JOIAS-FAMILIARES-SHOPEE",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "coracao",
+    "account": "JOIAS-FAMILIARES-TIKTOK",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "coracao",
+    "account": "ROSSI-JOIAS-ML",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "coracao",
+    "account": "ROSSI-JOIAS-SHOPEE",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "escapulario",
+    "account": "ARION-ML",
+    "observed_listing_ids": [
+      "MLB5371697838",
+      "MLB5371632852",
+      "MLB6107671796",
+      "MLB5371736746",
+      "MLB4992843825",
+      "MLB4992797507",
+      "MLB7329100584"
+    ],
+    "observed_count": 7,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "OBSERVED",
+    "next": "Reconciliar modelo físico e variações; preservar componentes concluídos"
+  },
+  {
+    "family_candidate": "escapulario",
+    "account": "ARION-SHOPEE",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "escapulario",
+    "account": "ARION-TIKTOK",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "escapulario",
+    "account": "ZEPHYRA-ML",
+    "observed_listing_ids": [
+      "MLB5287070006"
+    ],
+    "observed_count": 1,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "OBSERVED",
+    "next": "Reconciliar modelo físico e variações; preservar componentes concluídos"
+  },
+  {
+    "family_candidate": "escapulario",
+    "account": "ZEPHYRA-SHOPEE",
+    "observed_listing_ids": [
+      "23998309998",
+      "22998007942",
+      "22493714247"
+    ],
+    "observed_count": 3,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "OBSERVED",
+    "next": "Reconciliar modelo físico e variações; preservar componentes concluídos"
+  },
+  {
+    "family_candidate": "escapulario",
+    "account": "ZEPHYRA-TIKTOK",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "escapulario",
+    "account": "JOIAS-FAMILIARES-ML",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "escapulario",
+    "account": "JOIAS-FAMILIARES-SHOPEE",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "escapulario",
+    "account": "JOIAS-FAMILIARES-TIKTOK",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "escapulario",
+    "account": "ROSSI-JOIAS-ML",
+    "observed_listing_ids": [
+      "MLB4937276087",
+      "MLB4962226015"
+    ],
+    "observed_count": 2,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "OBSERVED",
+    "next": "Reconciliar modelo físico e variações; preservar componentes concluídos"
+  },
+  {
+    "family_candidate": "escapulario",
+    "account": "ROSSI-JOIAS-SHOPEE",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "kit-casal",
+    "account": "ARION-ML",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "kit-casal",
+    "account": "ARION-SHOPEE",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "kit-casal",
+    "account": "ARION-TIKTOK",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "kit-casal",
+    "account": "ZEPHYRA-ML",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "kit-casal",
+    "account": "ZEPHYRA-SHOPEE",
+    "observed_listing_ids": [
+      "45304063028"
+    ],
+    "observed_count": 1,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "OBSERVED",
+    "next": "Reconciliar modelo físico e variações; preservar componentes concluídos"
+  },
+  {
+    "family_candidate": "kit-casal",
+    "account": "ZEPHYRA-TIKTOK",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "kit-casal",
+    "account": "JOIAS-FAMILIARES-ML",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "kit-casal",
+    "account": "JOIAS-FAMILIARES-SHOPEE",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "kit-casal",
+    "account": "JOIAS-FAMILIARES-TIKTOK",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "kit-casal",
+    "account": "ROSSI-JOIAS-ML",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "kit-casal",
+    "account": "ROSSI-JOIAS-SHOPEE",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "modelo-a-reconciliar",
+    "account": "ARION-ML",
+    "observed_listing_ids": [
+      "MLB6139129894",
+      "MLB4402176287",
+      "MLB6100645178",
+      "MLB4065228419",
+      "MLB7329298522",
+      "MLB4454313549",
+      "MLB4992699927",
+      "MLB5359967682",
+      "MLB4112665525",
+      "MLB5360101966",
+      "MLB4106757079",
+      "MLB5459694808",
+      "MLB6101033356",
+      "MLB6100955452",
+      "MLB6101059198",
+      "MLB6100381028",
+      "MLB6100838858",
+      "MLB6101033360",
+      "MLB6100825828",
+      "MLB6100773910",
+      "MLB6100864818",
+      "MLB6100838852",
+      "MLB6100877806",
+      "MLB6100968534",
+      "MLB6100994470",
+      "MLB6100890626",
+      "MLB6101033346",
+      "MLB6100812956",
+      "MLB6100799958",
+      "MLB6100406298",
+      "MLB6100981384",
+      "MLB6100381032",
+      "MLB6100381040",
+      "MLB6100994472",
+      "MLB6100955456",
+      "MLB6100838832",
+      "MLB6100406304",
+      "MLB6100812942",
+      "MLB6100786960",
+      "MLB6100968526",
+      "MLB6100929450",
+      "MLB6100406300",
+      "MLB6100748090",
+      "MLB6100968530",
+      "MLB6100748092",
+      "MLB6101059212",
+      "MLB6100645180",
+      "MLB6100812946",
+      "MLB6100657428",
+      "MLB6100981390",
+      "MLB6100381024",
+      "MLB6100773926",
+      "MLB6100942494",
+      "MLB6100812954",
+      "MLB6100748094",
+      "MLB6100890624",
+      "MLB6100877808",
+      "MLB6101059194",
+      "MLB6100864826",
+      "MLB6101059196",
+      "MLB6100851920",
+      "MLB6100877798",
+      "MLB6100657438",
+      "MLB6100942500",
+      "MLB6100838854",
+      "MLB6100838836",
+      "MLB6100942502",
+      "MLB6100851936",
+      "MLB6100773912",
+      "MLB6100786958",
+      "MLB6101059210",
+      "MLB6100812948",
+      "MLB6101071918",
+      "MLB6100955450",
+      "MLB6101071924",
+      "MLB6100838834",
+      "MLB6100812962",
+      "MLB6100645174",
+      "MLB6100786966",
+      "MLB6100955462",
+      "MLB6100942516",
+      "MLB6100955460",
+      "MLB6100381042",
+      "MLB6100942514",
+      "MLB6100942496",
+      "MLB6100942510",
+      "MLB6100864820",
+      "MLB6101071922",
+      "MLB6100864810",
+      "MLB6100381026",
+      "MLB6100864830",
+      "MLB6100760938",
+      "MLB6100838868",
+      "MLB6100657436",
+      "MLB6100851926",
+      "MLB6100812958",
+      "MLB6100799954",
+      "MLB6100851922"
+    ],
+    "observed_count": 98,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "OBSERVED",
+    "next": "Reconciliar modelo físico e variações; preservar componentes concluídos"
+  },
+  {
+    "family_candidate": "modelo-a-reconciliar",
+    "account": "ARION-SHOPEE",
+    "observed_listing_ids": [
+      "22398547922",
+      "44607056061"
+    ],
+    "observed_count": 2,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "OBSERVED",
+    "next": "Reconciliar modelo físico e variações; preservar componentes concluídos"
+  },
+  {
+    "family_candidate": "modelo-a-reconciliar",
+    "account": "ARION-TIKTOK",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "modelo-a-reconciliar",
+    "account": "ZEPHYRA-ML",
+    "observed_listing_ids": [
+      "MLB5277678568",
+      "MLB5290561926",
+      "MLB5287292312"
+    ],
+    "observed_count": 3,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "OBSERVED",
+    "next": "Reconciliar modelo físico e variações; preservar componentes concluídos"
+  },
+  {
+    "family_candidate": "modelo-a-reconciliar",
+    "account": "ZEPHYRA-SHOPEE",
+    "observed_listing_ids": [
+      "45656999836"
+    ],
+    "observed_count": 1,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "OBSERVED",
+    "next": "Reconciliar modelo físico e variações; preservar componentes concluídos"
+  },
+  {
+    "family_candidate": "modelo-a-reconciliar",
+    "account": "ZEPHYRA-TIKTOK",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "modelo-a-reconciliar",
+    "account": "JOIAS-FAMILIARES-ML",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "modelo-a-reconciliar",
+    "account": "JOIAS-FAMILIARES-SHOPEE",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "modelo-a-reconciliar",
+    "account": "JOIAS-FAMILIARES-TIKTOK",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "modelo-a-reconciliar",
+    "account": "ROSSI-JOIAS-ML",
+    "observed_listing_ids": [
+      "MLB4820101239"
+    ],
+    "observed_count": 1,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "OBSERVED",
+    "next": "Reconciliar modelo físico e variações; preservar componentes concluídos"
+  },
+  {
+    "family_candidate": "modelo-a-reconciliar",
+    "account": "ROSSI-JOIAS-SHOPEE",
+    "observed_listing_ids": [
+      "58265902423",
+      "58263388907"
+    ],
+    "observed_count": 2,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "OBSERVED",
+    "next": "Reconciliar modelo físico e variações; preservar componentes concluídos"
+  },
+  {
+    "family_candidate": "olhar",
+    "account": "ARION-ML",
+    "observed_listing_ids": [
+      "MLB5000427459"
+    ],
+    "observed_count": 1,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "OBSERVED",
+    "next": "Reconciliar modelo físico e variações; preservar componentes concluídos"
+  },
+  {
+    "family_candidate": "olhar",
+    "account": "ARION-SHOPEE",
+    "observed_listing_ids": [
+      "22094403692"
+    ],
+    "observed_count": 1,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "OBSERVED",
+    "next": "Reconciliar modelo físico e variações; preservar componentes concluídos"
+  },
+  {
+    "family_candidate": "olhar",
+    "account": "ARION-TIKTOK",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "olhar",
+    "account": "ZEPHYRA-ML",
+    "observed_listing_ids": [
+      "MLB3944682661"
+    ],
+    "observed_count": 1,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "OBSERVED",
+    "next": "Reconciliar modelo físico e variações; preservar componentes concluídos"
+  },
+  {
+    "family_candidate": "olhar",
+    "account": "ZEPHYRA-SHOPEE",
+    "observed_listing_ids": [
+      "41717552144"
+    ],
+    "observed_count": 1,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "OBSERVED",
+    "next": "Reconciliar modelo físico e variações; preservar componentes concluídos"
+  },
+  {
+    "family_candidate": "olhar",
+    "account": "ZEPHYRA-TIKTOK",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "olhar",
+    "account": "JOIAS-FAMILIARES-ML",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "olhar",
+    "account": "JOIAS-FAMILIARES-SHOPEE",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "olhar",
+    "account": "JOIAS-FAMILIARES-TIKTOK",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "olhar",
+    "account": "ROSSI-JOIAS-ML",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "olhar",
+    "account": "ROSSI-JOIAS-SHOPEE",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "pulseira",
+    "account": "ARION-ML",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "pulseira",
+    "account": "ARION-SHOPEE",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "pulseira",
+    "account": "ARION-TIKTOK",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "pulseira",
+    "account": "ZEPHYRA-ML",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "pulseira",
+    "account": "ZEPHYRA-SHOPEE",
+    "observed_listing_ids": [
+      "23893329787",
+      "21199649050"
+    ],
+    "observed_count": 2,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "OBSERVED",
+    "next": "Reconciliar modelo físico e variações; preservar componentes concluídos"
+  },
+  {
+    "family_candidate": "pulseira",
+    "account": "ZEPHYRA-TIKTOK",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "pulseira",
+    "account": "JOIAS-FAMILIARES-ML",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "pulseira",
+    "account": "JOIAS-FAMILIARES-SHOPEE",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "pulseira",
+    "account": "JOIAS-FAMILIARES-TIKTOK",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "pulseira",
+    "account": "ROSSI-JOIAS-ML",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "pulseira",
+    "account": "ROSSI-JOIAS-SHOPEE",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "pulseira-infantil",
+    "account": "ARION-ML",
+    "observed_listing_ids": [
+      "MLB4988779191",
+      "MLB5397212260",
+      "MLB4988659949",
+      "MLB4068183059"
+    ],
+    "observed_count": 4,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "OBSERVED",
+    "next": "Reconciliar modelo físico e variações; preservar componentes concluídos"
+  },
+  {
+    "family_candidate": "pulseira-infantil",
+    "account": "ARION-SHOPEE",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "pulseira-infantil",
+    "account": "ARION-TIKTOK",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "pulseira-infantil",
+    "account": "ZEPHYRA-ML",
+    "observed_listing_ids": [
+      "MLB2057159919",
+      "MLB3916614773",
+      "MLB1834722259"
+    ],
+    "observed_count": 3,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "OBSERVED",
+    "next": "Reconciliar modelo físico e variações; preservar componentes concluídos"
+  },
+  {
+    "family_candidate": "pulseira-infantil",
+    "account": "ZEPHYRA-SHOPEE",
+    "observed_listing_ids": [
+      "18298628849",
+      "23995957452",
+      "23191474109"
+    ],
+    "observed_count": 3,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "OBSERVED",
+    "next": "Reconciliar modelo físico e variações; preservar componentes concluídos"
+  },
+  {
+    "family_candidate": "pulseira-infantil",
+    "account": "ZEPHYRA-TIKTOK",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "pulseira-infantil",
+    "account": "JOIAS-FAMILIARES-ML",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "pulseira-infantil",
+    "account": "JOIAS-FAMILIARES-SHOPEE",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "pulseira-infantil",
+    "account": "JOIAS-FAMILIARES-TIKTOK",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "pulseira-infantil",
+    "account": "ROSSI-JOIAS-ML",
+    "observed_listing_ids": [
+      "MLB4962224991"
+    ],
+    "observed_count": 1,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "OBSERVED",
+    "next": "Reconciliar modelo físico e variações; preservar componentes concluídos"
+  },
+  {
+    "family_candidate": "pulseira-infantil",
+    "account": "ROSSI-JOIAS-SHOPEE",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "pulseira-olhar",
+    "account": "ARION-ML",
+    "observed_listing_ids": [
+      "MLB5403718946",
+      "MLB5405338528",
+      "MLB4075868407"
+    ],
+    "observed_count": 3,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "OBSERVED",
+    "next": "Reconciliar modelo físico e variações; preservar componentes concluídos"
+  },
+  {
+    "family_candidate": "pulseira-olhar",
+    "account": "ARION-SHOPEE",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "pulseira-olhar",
+    "account": "ARION-TIKTOK",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "pulseira-olhar",
+    "account": "ZEPHYRA-ML",
+    "observed_listing_ids": [
+      "MLB5290579084"
+    ],
+    "observed_count": 1,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "OBSERVED",
+    "next": "Reconciliar modelo físico e variações; preservar componentes concluídos"
+  },
+  {
+    "family_candidate": "pulseira-olhar",
+    "account": "ZEPHYRA-SHOPEE",
+    "observed_listing_ids": [
+      "22098254165"
+    ],
+    "observed_count": 1,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "OBSERVED",
+    "next": "Reconciliar modelo físico e variações; preservar componentes concluídos"
+  },
+  {
+    "family_candidate": "pulseira-olhar",
+    "account": "ZEPHYRA-TIKTOK",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "pulseira-olhar",
+    "account": "JOIAS-FAMILIARES-ML",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "pulseira-olhar",
+    "account": "JOIAS-FAMILIARES-SHOPEE",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "pulseira-olhar",
+    "account": "JOIAS-FAMILIARES-TIKTOK",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "pulseira-olhar",
+    "account": "ROSSI-JOIAS-ML",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "pulseira-olhar",
+    "account": "ROSSI-JOIAS-SHOPEE",
+    "observed_listing_ids": [
+      "58213295966"
+    ],
+    "observed_count": 1,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "OBSERVED",
+    "next": "Reconciliar modelo físico e variações; preservar componentes concluídos"
+  },
+  {
+    "family_candidate": "quadrado",
+    "account": "ARION-ML",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "quadrado",
+    "account": "ARION-SHOPEE",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "quadrado",
+    "account": "ARION-TIKTOK",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "quadrado",
+    "account": "ZEPHYRA-ML",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "quadrado",
+    "account": "ZEPHYRA-SHOPEE",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "quadrado",
+    "account": "ZEPHYRA-TIKTOK",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "quadrado",
+    "account": "JOIAS-FAMILIARES-ML",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "quadrado",
+    "account": "JOIAS-FAMILIARES-SHOPEE",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "quadrado",
+    "account": "JOIAS-FAMILIARES-TIKTOK",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "quadrado",
+    "account": "ROSSI-JOIAS-ML",
+    "observed_listing_ids": [
+      "MLB5114998131"
+    ],
+    "observed_count": 1,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "OBSERVED",
+    "next": "Reconciliar modelo físico e variações; preservar componentes concluídos"
+  },
+  {
+    "family_candidate": "quadrado",
+    "account": "ROSSI-JOIAS-SHOPEE",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "redondo",
+    "account": "ARION-ML",
+    "observed_listing_ids": [
+      "MLB5360024768",
+      "MLB6100942506"
+    ],
+    "observed_count": 2,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "OBSERVED",
+    "next": "Reconciliar modelo físico e variações; preservar componentes concluídos"
+  },
+  {
+    "family_candidate": "redondo",
+    "account": "ARION-SHOPEE",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "redondo",
+    "account": "ARION-TIKTOK",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "redondo",
+    "account": "ZEPHYRA-ML",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "redondo",
+    "account": "ZEPHYRA-SHOPEE",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "redondo",
+    "account": "ZEPHYRA-TIKTOK",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "redondo",
+    "account": "JOIAS-FAMILIARES-ML",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "redondo",
+    "account": "JOIAS-FAMILIARES-SHOPEE",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "redondo",
+    "account": "JOIAS-FAMILIARES-TIKTOK",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  },
+  {
+    "family_candidate": "redondo",
+    "account": "ROSSI-JOIAS-ML",
+    "observed_listing_ids": [
+      "MLB5115061705"
+    ],
+    "observed_count": 1,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "OBSERVED",
+    "next": "Reconciliar modelo físico e variações; preservar componentes concluídos"
+  },
+  {
+    "family_candidate": "redondo",
+    "account": "ROSSI-JOIAS-SHOPEE",
+    "observed_listing_ids": [],
+    "observed_count": 0,
+    "complete_inventory": false,
+    "reviewed_complete_ads": null,
+    "new_published_this_round": 0,
+    "presence": "NOT_VERIFIED_NOT_ABSENT",
+    "next": "Identificar loja e consultar catálogo"
+  }
+]

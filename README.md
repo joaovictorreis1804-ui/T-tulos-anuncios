@@ -1,44 +1,9 @@
-# 📦 Títulos Anúncios Zephyra
+# The Hive — Operação de marketplaces
 
-Banco de dados com variações de títulos otimizados para anúncios de joias personalizadas nos marketplaces Mercado Livre e Shopee.
+Fonte operacional de produtos, conteúdo, auditoria e progresso. Comece em [MASTER-MARKETPLACES](status/MASTER-MARKETPLACES.md).
 
----
+[Catálogo observado](produtos/anuncios-observados.json) · [Matriz](status/matriz-produto-marca-marketplace.json) · [Erros P0](auditorias/P0.md) · [Critérios](marketplaces/CRITERIOS.md) · [Checklist](checklists/EXECUCAO.md)
 
-## 🎯 Objetivo
+Lotes preparados: [Escapulário](criativos/escapulario/MOTOR-TIKTOK.md), [Coração](criativos/coracao/MOTOR-TIKTOK.md).
 
-Coletar, organizar e otimizar títulos de produtos como colares e escapulários personalizados com foco em:
-
-- Relevância para busca (SEO)
-- Gatilhos emocionais
-- Conversão para presentes personalizados
-- Diferenciação por material (aço inox, ouro 18K, prata 925)
-
----
-
-## 🧩 Produtos Mapeados
-
-- Colar com Foto Coração (Aço Inox)
-- Colar com Foto Quadrado (Aço Inox)
-- Colar com Foto Redondo (Aço Inox)
-- Escapulário com Foto (Aço Inox)
-- Colar Redondo (Banhado a Ouro 18K)
-- Colar Coração (Banhado a Ouro 18K)
-- Colar Redondo (Prata 925)
-- Colar Coração (Prata 925)
-- Pulseira com Foto do Olhar (Aço Inox)
-- Colar com Foto do Olhar (Aço Inox)
-- Relicário com Foto (Ouro 18K)
-
----
-
-## 📊 Estrutura Sugerida
-
-```bash
-📁 produtos/
-   ├── colar-foto-coracao-inox.csv
-   ├── colar-foto-quadrado-inox.csv
-   ├── ...
-📁 palavras-chave/
-   └── palavras-por-produto.md
-📁 analise/
-   └── shopee-vs-mercado-livre.md
+Repositório público: não inserir credenciais, perfis, dados pessoais de clientes ou informações financeiras internas. Biblioteca de mídia e controle de escrita permanecem no workspace privado. Publicação externa exige identidade correta, autorização aplicável e verificação.

@@ -1,0 +1,90 @@
+[
+  {
+    "family": "olhar",
+    "filename": "olhar-capa.png",
+    "sha256": "fc4f6503342e2d93755b048a1ee54d3373450a72f04863c7e485cc8be9c54bfd",
+    "status": "PREPARADO_NAO_APLICADO",
+    "visual_review": "Capa limpa; comparação visual com fonte fornecida; conferir corrente do anúncio.",
+    "storage": "Biblioteca local do projeto; mídia não publicada neste repositório"
+  },
+  {
+    "family": "pulseira-baby",
+    "filename": "pulseira-baby-detalhe.png",
+    "sha256": "15e7b8cf56a0fe520cf094d43f2a44a43bae714ce4e17a1945e2c1015e1c4352",
+    "status": "PREPARADO_NAO_APLICADO",
+    "visual_review": "Somente imagem secundária: extremidades não aparecem integralmente.",
+    "storage": "Biblioteca local do projeto; mídia não publicada neste repositório"
+  },
+  {
+    "family": "coracao",
+    "filename": "coracao-medidas.png",
+    "sha256": "adf8e390fbe6347b9f4ddd3096aa9695608d66df6cf3e529a6ccb319021abbf8",
+    "status": "PREPARADO_NAO_APLICADO",
+    "visual_review": "Card secundário com medida literal 24 × 23,507 mm; não atribuir espessura.",
+    "storage": "Biblioteca local do projeto; mídia não publicada neste repositório"
+  },
+  {
+    "family": "retangular",
+    "filename": "retangular-capa-candidata.png",
+    "sha256": "6706ba3fb5ff32127182864557b5cf7a39437d68d43747fe145602825ae085a2",
+    "status": "PREPARADO_NAO_APLICADO",
+    "visual_review": "Candidata; comparar gravação com vídeo real e confirmar correspondência Quadrado/modelo 14 antes de aplicar medida.",
+    "storage": "Biblioteca local do projeto; mídia não publicada neste repositório"
+  },
+  {
+    "family": "pulseira-baby",
+    "filename": "pulseira-baby-capa.png",
+    "sha256": "bd230f379ce480d688f350736e53c08bf8e1693657b84bd68140eb800d1bec9e",
+    "status": "PREPARADO_NAO_APLICADO",
+    "visual_review": "Bracelete completo comparado com fotos 01 e 03; vincular acabamento/elos/fecho à variação. Não inferir banho pela aparência.",
+    "storage": "Biblioteca local do projeto; mídia não publicada neste repositório"
+  },
+  {
+    "family": "escapulario",
+    "filename": "escapulario-medidas.png",
+    "sha256": "81c850779e781e828e48661faf6e65aaadcf5d04e33a728dcce559164a2f9026",
+    "status": "PREPARADO_NAO_APLICADO",
+    "visual_review": "Detalhe de uma placa; 12 × 18,447 mm; não representa quantidade total do escapulário nem comprova corrente.",
+    "storage": "Biblioteca local do projeto; mídia não publicada neste repositório"
+  },
+  {
+    "family": "olhar",
+    "filename": "olhar-medidas.png",
+    "sha256": "96cb89711ec57139c1baf2bbf8bf39f0d0cc09c8e346973b56d4d2230758eb13",
+    "status": "PREPARADO_NAO_APLICADO",
+    "visual_review": "Card secundário 10 × 35 mm; proporção e passador da referência; sem espessura.",
+    "storage": "Biblioteca local do projeto; mídia não publicada neste repositório"
+  },
+  {
+    "family": "coracao",
+    "filename": "coracao-capa-reaproveitada.png",
+    "sha256": "3fc0ffba5181c6df861e6984ed99accb2100e45fc9b6574a71996869ad1b729a",
+    "status": "FONTE_REAPROVEITADA_NAO_APLICADA",
+    "visual_review": "Imagem limpa existente preservada; vincular ao produto exato antes de aplicar.",
+    "storage": "Biblioteca local do projeto; mídia não publicada neste repositório"
+  },
+  {
+    "family": "chaveiro-olhar",
+    "filename": "chaveiro-olhar-capa-reaproveitada.png",
+    "sha256": "d8052f35eb42f7a76f61533a1af1983b4cf94ad4e7706540e4de41560ba3f191",
+    "status": "FONTE_REAPROVEITADA_NAO_APLICADA",
+    "visual_review": "Imagem limpa existente preservada; vincular ao produto exato antes de aplicar.",
+    "storage": "Biblioteca local do projeto; mídia não publicada neste repositório"
+  },
+  {
+    "family": "escapulario",
+    "filename": "escapulario-capa.png",
+    "sha256": "1488b8e295b6bda3dbae91b3270502c7e9d1910f7c5e28f60b0ecdec7a4e7273",
+    "status": "PREPARADO_NAO_APLICADO",
+    "visual_review": "Duas placas e corrente conectada, baseado em quadro do vídeo real do responsável. Exemplo foto/texto; conferir alcance da opção antes de aplicar.",
+    "storage": "Biblioteca local do projeto; mídia não publicada neste repositório"
+  },
+  {
+    "family": "kit-casal",
+    "filename": "kit-casal-capa.png",
+    "sha256": "d998a783a2dd1ae4f0c6a7b2355b62e182ec25d7ff432832a9da78e0cad7e9d5",
+    "status": "PREPARADO_NAO_APLICADO",
+    "visual_review": "Dois colares com passadores e placas alongadas; datas iguais corrigidas. Variante Coração; não usar para Sol ou oferta unitária.",
+    "storage": "Biblioteca local do projeto; mídia não publicada neste repositório"
+  }
+]

@@ -1,0 +1,184 @@
+[
+  {
+    "account": "ARION-ML",
+    "listing": "MLB6100773910",
+    "component": "clip",
+    "state": "VERIFIED",
+    "next": "SKIP"
+  },
+  {
+    "account": "ARION-ML",
+    "listing": "MLB6100955452",
+    "component": "clip",
+    "state": "PERSISTED",
+    "next": "VERIFY_PUBLIC_ONLY"
+  },
+  {
+    "account": "ARION-ML",
+    "listing": "MLB6101033356",
+    "component": "clip",
+    "state": "VERIFIED",
+    "next": "SKIP"
+  },
+  {
+    "account": "ARION-ML",
+    "listing": "MLB6101059198",
+    "component": "clip",
+    "state": "PERSISTED",
+    "next": "VERIFY_PUBLIC_ONLY"
+  },
+  {
+    "account": "ARION-ML",
+    "listing": "MLB6100838852",
+    "component": "gallery",
+    "state": "VERIFIED",
+    "next": "SKIP"
+  },
+  {
+    "account": "ARION-ML",
+    "listing": "MLB6100864818",
+    "component": "gallery",
+    "state": "VERIFIED",
+    "next": "SKIP"
+  },
+  {
+    "account": "ARION-ML",
+    "listing": "MLB6100877806",
+    "component": "gallery",
+    "state": "VERIFIED",
+    "next": "SKIP"
+  },
+  {
+    "account": "ARION-ML",
+    "listing": "MLB6100890626",
+    "component": "gallery",
+    "state": "VERIFIED",
+    "next": "SKIP"
+  },
+  {
+    "account": "ARION-ML",
+    "listing": "MLB6100968534",
+    "component": "gallery",
+    "state": "VERIFIED_ORDER_VARIANT",
+    "next": "SKIP_ORDER_VARIANT_RECORDED"
+  },
+  {
+    "account": "ARION-SHOPEE",
+    "listing": "44607056061",
+    "component": "text",
+    "state": "PERSISTED",
+    "next": "SKIP_PERSISTENCE_CONFIRMED"
+  },
+  {
+    "account": "ARION-SHOPEE",
+    "listing": "45007049087",
+    "component": "text",
+    "state": "PERSISTED",
+    "next": "SKIP_PERSISTENCE_CONFIRMED"
+  },
+  {
+    "account": "ARION-SHOPEE",
+    "listing": "18599789613",
+    "component": "text",
+    "state": "PERSISTED",
+    "next": "SKIP_PERSISTENCE_CONFIRMED"
+  },
+  {
+    "account": "ARION-SHOPEE",
+    "listing": "18599789613",
+    "component": "gallery",
+    "state": "PERSISTED",
+    "next": "SKIP_PERSISTENCE_CONFIRMED"
+  },
+  {
+    "account": "ARION-SHOPEE",
+    "listing": "22094297503",
+    "component": "text",
+    "state": "VERIFIED",
+    "next": "SKIP"
+  },
+  {
+    "account": "ARION-SHOPEE",
+    "listing": "22094297503",
+    "component": "gallery",
+    "state": "PERSISTED",
+    "next": "SKIP_PERSISTENCE_CONFIRMED"
+  },
+  {
+    "account": "ARION-SHOPEE",
+    "listing": "22398547922",
+    "component": "text",
+    "state": "PERSISTED",
+    "next": "SKIP_PERSISTENCE_CONFIRMED"
+  },
+  {
+    "account": "ARION-SHOPEE",
+    "listing": "22398547922",
+    "component": "gallery",
+    "state": "PERSISTED",
+    "next": "SKIP_PERSISTENCE_CONFIRMED"
+  },
+  {
+    "account": "ARION-SHOPEE",
+    "listing": "18599789613",
+    "component": "clip",
+    "state": "PERSISTED",
+    "next": "SKIP_PERSISTENCE_CONFIRMED"
+  },
+  {
+    "account": "ARION-SHOPEE",
+    "listing": "22094297503",
+    "component": "clip",
+    "state": "PERSISTED",
+    "next": "SKIP_PERSISTENCE_CONFIRMED"
+  },
+  {
+    "account": "ARION-SHOPEE",
+    "listing": "22398547922",
+    "component": "clip",
+    "state": "PERSISTED",
+    "next": "SKIP_PERSISTENCE_CONFIRMED"
+  },
+  {
+    "account": "ARION-SHOPEE",
+    "listing": "18599789613",
+    "component": "text",
+    "state": "PERSISTED",
+    "next": "SKIP_PERSISTENCE_CONFIRMED"
+  },
+  {
+    "account": "ARION-SHOPEE",
+    "listing": "22094297503",
+    "component": "text",
+    "state": "PERSISTED",
+    "next": "SKIP_PERSISTENCE_CONFIRMED"
+  },
+  {
+    "account": "ARION-SHOPEE",
+    "listing": "22398547922",
+    "component": "text",
+    "state": "PERSISTED",
+    "next": "SKIP_PERSISTENCE_CONFIRMED"
+  },
+  {
+    "account": "ARION-SHOPEE",
+    "listing": "22398547922",
+    "component": "gallery",
+    "state": "PERSISTED",
+    "next": "SKIP_PERSISTENCE_CONFIRMED"
+  },
+  {
+    "account": "ZEPHYRA-SHOPEE",
+    "listing": "18298628849",
+    "component": "text",
+    "state": "UNCERTAIN",
+    "next": "RECONCILE_FIRST"
+  },
+  {
+    "account": "ZEPHYRA-SHOPEE",
+    "listing": "23998309998",
+    "component": "text",
+    "state": "PERSISTED",
+    "next": "SKIP_PERSISTENCE_CONFIRMED"
+  }
+]
