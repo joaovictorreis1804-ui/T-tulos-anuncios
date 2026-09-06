@@ -48,3 +48,8 @@ Pulseira infantil Zephyra Shopee 18298628849: título e descrição corrigidos e
 
 ## TikTok Zephyra — acesso parcial confirmado na retomada
 A interface nativa mostrou a loja Zephyra Joias & Personalizados e contador de 12 anúncios em 06/09/2026. A leitura da página inicial funcionou; a interação com Produtos falhou no controle do navegador, antes de qualquer edição. Não é bloqueio de senha nem CAPTCHA confirmado. Catálogo e IDs ainda não lidos; não presumir presença ou ausência de escapulário e coração. Próxima ação: retomar pelo menu Produtos na sessão identificada, sem repetir a correção já persistida da pulseira Shopee. Conteúdo e criativos preparados por família continuam disponíveis; nenhuma oferta TikTok publicada.
+
+
+## Lote de vídeos preparado — 06/09/2026
+Quatro novas edições MP4 720 × 1280: escapulário demonstração (18 s), escapulário presente (16 s), kit casal demonstração (18 s), kit casal conexão (18 s). Arquivos de 5,5–6,2 MB, silenciosos, decodificação integral aprovada e quadros inspecionados após edição. Prévias em biblioteca-criativa/videos/edicoes-hive/PREVIAS.html. Preparação concluída; nenhum upload ou publicação. Uso condicionado ao anúncio e variante equivalentes, opções reais de foto/texto e autorização aplicável a vídeo. Pulseira banhada continua sem receber vídeo prateado incompatível.
+TikTok Zephyra: identidade e contador de 12 anúncios novamente lidos; abertura do menu Produtos falhou no controle. Não repetir tentativas consecutivas nem presumir login ausente. Próxima prioridade externa: inventário TikTok; alternativa local: completar pacotes por produto com o material já catalogado.
